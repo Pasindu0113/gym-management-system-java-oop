@@ -1,0 +1,30 @@
+#Home{
+    -fx-background-image: url('1535446.jpg');
+    -fx-background-repeat: stretch;
+    -fx-background-size: 700 600;
+    -fx-background-position: center center;
+}
+
+#btnstyle{
+    -fx-background-radius: 50px;
+    -fx-border-radius: 20px;
+    -fx-border-color: #000000;
+    -fx-background-color: #939393;
+    -fx-font-style: italic;
+    -fx-text-fill: #000000;
+}
+
+#view{
+    -fx-background-image: url('pusupguy-cropped.jpg');
+    -fx-background-repeat: stretch;
+    -fx-background-size: 1000 800;
+    -fx-background-position: center center;
+}
+
+#search{
+    -fx-background-image: url('pusupguy-cropped.jpg');
+    -fx-background-repeat: stretch;
+    -fx-background-size: 1000 800;
+    -fx-background-position: center center;
+}
+
